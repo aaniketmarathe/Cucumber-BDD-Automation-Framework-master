@@ -9,7 +9,7 @@
 	  
 <h2>Directory structure:</h2>
 <br>
-<img src="https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/directoryStructure.PNG" title = "directory structure"/>
+<img src="https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/directoryStructure.PNG" title = "directory structure"/>
 
 <br>
 
@@ -42,8 +42,8 @@
 <h2>Snapshots - Cucumber - Advanced - Report: See here </h2>
 <br>
 <ul>
-<li><a href = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-advanced2.PNG" title = "cucumber pretty and advanced">Cucumber-advance summarized</a></li>
-<li><a href = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-advance.pdf" title = "cucumber pretty and advanced">Cucumber-advance expanded</a></li>
+<li><a href = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-advanced2.PNG" title = "cucumber pretty and advanced">Cucumber-advance summarized</a></li>
+<li><a href = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/cucumber-advance.pdf" title = "cucumber pretty and advanced">Cucumber-advance expanded</a></li>
 </ul>
 
 <br>
@@ -112,7 +112,7 @@
 <h3>You will be able to locate the report in folder : "target\site\allure-maven-plugin", the "Index.html" file. </h3>
 
 <br>
-<img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/allure-report.PNG" title = "allure report folder"/>
+<img src = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/allure-report.PNG" title = "allure report folder"/>
 <br><br><br>
 <h3>You can either open it through Firefox or on a local server. I had used "Jetty server", using this command: "mvn jetty:run". And then open url in your any browser "http://localhost:8080" and there you go.</h3>
 
@@ -134,19 +134,19 @@
 
 <ul><b>
 <li>allure-xunit view<br><br>
-<img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/allure-xunit.PNG" title = "allure-xunit view"/></li><br><br>
+<img src = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/allure-xunit.PNG" title = "allure-xunit view"/></li><br><br>
 <li>allure-xunit1 view<br><br>
-<img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/allure-xunit1.PNG" title = "allure-xunit1 view"/></li><br><br>
+<img src = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/allure-xunit1.PNG" title = "allure-xunit1 view"/></li><br><br>
 <li>allure-xunit2 view<br><br>
-<img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/allure-xunit2.PNG" title = "allure-xunit2 view"/></li><br><br>
+<img src = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/allure-xunit2.PNG" title = "allure-xunit2 view"/></li><br><br>
 <li>allure-behavior1 view<br><br>
-<img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/behavior1.PNG" title = "allure-behavior1 view"/></li><br><br>
+<img src = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/behavior1.PNG" title = "allure-behavior1 view"/></li><br><br>
 <li>allure-behavior2 view<br><br>
-<img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/behavior2.PNG" title = "allure-behavior2 view"/></li><br><br>
+<img src = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/behavior2.PNG" title = "allure-behavior2 view"/></li><br><br>
 <li>allure-graph view<br><br>
-<img src = "https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/images/allure-graph.png" title = "allure-graph view"/></li><br><br>
+<img src = "https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/images/allure-graph.png" title = "allure-graph view"/></li><br><br>
 </b></ul>
 
 <h3>Added a sample Execution Video and Generated Reports, See here: 
-<a width="400px" height="200px" href="https://github.com/rohinegi548/Cucumber-BDD-Automation-Framework/blob/master/Execution%20Demo.mp4">Herexecution Video and Generated Reports</a></h3>
+<a width="400px" height="200px" href="https://github.com/aaniketmarathe/Cucumber-BDD-Automation-Framework/blob/master/Execution%20Demo.mp4">Herexecution Video and Generated Reports</a></h3>
 
